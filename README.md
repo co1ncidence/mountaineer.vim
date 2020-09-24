@@ -2,6 +2,22 @@
 
 <p align="center"
 
-![img](https://i.postimg.cc/9Mjfgyny/new.png)
+![img](screenshots/mountaineer.png)
 
 </p>
+
+<p align="center"
+
+![img](screenshots/mountaineer-grey.png)
+
+</p>
+
+<p align="center"
+
+![img](screenshots/mountaineer-light.png)
+
+</p>
+
+## Installation
+
+Simply move the desired variant into your Vim colors folder, then set `mountaneer <variant>` in your Vim config.
