@@ -20,4 +20,8 @@
 
 ## Installation
 
-Simply move the desired variant into your Vim colors folder, then set `mountaneer <variant>` in your Vim config.
+Simply move the desired variant into your Vim colors folder, then set the following in your Vim config:
+
+```vim
+colorscheme mountaneer <variant>
+```
