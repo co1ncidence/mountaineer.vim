@@ -20,8 +20,4 @@
 
 ## Installation
 
-Simply move the desired variant into your Vim colors folder, then set the following in your Vim config:
-
-```vim
-colorscheme mountaneer <variant>
-```
+Move `colors/*` into your Vim colors folder, usually `~/.vim/colors` or `~/.config/nvim/colors` and set `colorscheme mountaineer{-grey|light}` in your Vim config.
