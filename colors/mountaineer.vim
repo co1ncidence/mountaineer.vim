@@ -1,3 +1,11 @@
+" -----------------------------------------------------------------------------
+" Name:         Mountaineer
+" Description:  A Darn and Adventurous Vim Colorscheme
+" Author:       nuaNce <r3yan.chaudhry@zohomail.com>
+" Website:      https://github.com/co1ncidence/mountaineer.vim
+" License:      BSD 3-Clause License
+" -----------------------------------------------------------------------------
+"
 " GUI color definitions
 let s:gui00        = "050505"
 let g:base16_gui00 = "050505"
